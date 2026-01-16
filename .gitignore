@@ -1,0 +1,11 @@
+models/**
+runs/**
+__pycache__/
+.venv/
+*.pt
+*.bin
+*.safetensors
+*.keras
+*.h5
+*.pkl
+.DS_Store

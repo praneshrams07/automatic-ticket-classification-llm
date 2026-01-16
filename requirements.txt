@@ -1,0 +1,23 @@
+# Core
+numpy>=1.24
+pandas>=2.0
+tqdm>=4.66
+
+# Hugging Face + training
+datasets>=2.20
+transformers>=4.45
+accelerate>=0.33
+torch>=2.2
+
+# ML utilities
+scikit-learn>=1.3
+joblib>=1.3
+
+# Deep learning (LSTM baseline)
+tensorflow==2.15.1
+tensorflow-macos==2.15.1
+tensorflow-metal==1.1.0
+
+
+# Gemini integration
+google-genai>=0.5
